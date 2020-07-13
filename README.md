@@ -5,3 +5,4 @@ changes
 new changes
 # Changes to resove conflicts
 This should cause trouble!
+New changes
